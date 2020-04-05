@@ -9,3 +9,5 @@ C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.Assembly
 C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.csproj.CopyComplete
 C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.dll
 C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.pdb
+C:\gitRepository\Todo\src\Todo.Infra\bin\Debug\netcoreapp3.1\Todo.Infra.runtimeconfig.json
+C:\gitRepository\Todo\src\Todo.Infra\bin\Debug\netcoreapp3.1\Todo.Infra.runtimeconfig.dev.json

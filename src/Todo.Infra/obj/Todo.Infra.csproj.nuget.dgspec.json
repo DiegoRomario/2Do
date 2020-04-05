@@ -116,7 +116,17 @@
             },
             "Microsoft.EntityFrameWorkCore.Relational": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameWorkCore.sQLSERVER": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameWorkCore.tOOLS": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
             }
           },
           "imports": [
