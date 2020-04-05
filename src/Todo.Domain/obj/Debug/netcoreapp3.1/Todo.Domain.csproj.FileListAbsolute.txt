@@ -1,0 +1,8 @@
+C:\gitRepository\Todo\src\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.deps.json
+C:\gitRepository\Todo\src\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\gitRepository\Todo\src\Todo.Domain\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\gitRepository\Todo\src\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.csprojAssemblyReference.cache
+C:\gitRepository\Todo\src\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfoInputs.cache
+C:\gitRepository\Todo\src\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.AssemblyInfo.cs
+C:\gitRepository\Todo\src\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\gitRepository\Todo\src\Todo.Domain\obj\Debug\netcoreapp3.1\Todo.Domain.pdb

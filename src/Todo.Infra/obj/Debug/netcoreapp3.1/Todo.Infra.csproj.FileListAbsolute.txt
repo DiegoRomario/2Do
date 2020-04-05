@@ -1,0 +1,11 @@
+C:\gitRepository\Todo\src\Todo.Infra\bin\Debug\netcoreapp3.1\Todo.Infra.deps.json
+C:\gitRepository\Todo\src\Todo.Infra\bin\Debug\netcoreapp3.1\Todo.Infra.dll
+C:\gitRepository\Todo\src\Todo.Infra\bin\Debug\netcoreapp3.1\Todo.Infra.pdb
+C:\gitRepository\Todo\src\Todo.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.dll
+C:\gitRepository\Todo\src\Todo.Infra\bin\Debug\netcoreapp3.1\Todo.Domain.pdb
+C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.csprojAssemblyReference.cache
+C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.AssemblyInfoInputs.cache
+C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.AssemblyInfo.cs
+C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.csproj.CopyComplete
+C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.dll
+C:\gitRepository\Todo\src\Todo.Infra\obj\Debug\netcoreapp3.1\Todo.Infra.pdb
