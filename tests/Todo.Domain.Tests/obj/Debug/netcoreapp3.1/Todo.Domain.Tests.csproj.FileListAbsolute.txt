@@ -92,3 +92,4 @@ C:\gitRepository\Todo\tests\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domai
 C:\gitRepository\Todo\tests\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.csproj.CopyComplete
 C:\gitRepository\Todo\tests\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.dll
 C:\gitRepository\Todo\tests\Todo.Domain.Tests\obj\Debug\netcoreapp3.1\Todo.Domain.Tests.pdb
+C:\gitRepository\Todo\tests\Todo.Domain.Tests\bin\Debug\netcoreapp3.1\Flunt.dll
