@@ -8,4 +8,10 @@
     <ProjectReference Include="..\Todo.Domain\Todo.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameWorkCore" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameWorkCore.InMemory" Version="3.1.3" />
+    <PackageReference Include="Microsoft.EntityFrameWorkCore.Relational" Version="3.1.3" />
+  </ItemGroup>
+
 </Project>
